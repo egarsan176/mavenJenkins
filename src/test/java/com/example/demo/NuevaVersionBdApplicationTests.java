@@ -9,5 +9,10 @@ class NuevaVersionBdApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void testFallido() {
+		assertTrue(false);
+	}
 
 }
