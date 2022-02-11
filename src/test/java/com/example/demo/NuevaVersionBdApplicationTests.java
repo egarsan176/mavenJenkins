@@ -20,12 +20,10 @@ class NuevaVersionBdApplicationTests {
 	
 	@Test
 	void testGetUserName() {
-		assertEquals("estef", usuario.getUserName());
+		assertEquals("estefgar", usuario.getUserName());
 	}
 
-	@Test
-	void contextLoads() {
-	}
+
 	
 	
 
